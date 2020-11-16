@@ -10,7 +10,7 @@ In this project, I am exploring motorsport Formula 1, through the lense of a Dat
 ## Languages Used:
 * Python
 
-# Packages Used:
+## Packages Used:
 * Pandas
 * Numpy
 * Matplotlib
