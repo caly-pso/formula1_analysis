@@ -147,7 +147,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 ###### [(Back to top)](#table-of-contents)
 
 - [COVID-19 App](https://github.com/caly-pso/covid_app)
-- [[Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
+- [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
 
 <br>
 
