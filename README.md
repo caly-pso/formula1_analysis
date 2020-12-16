@@ -1,7 +1,7 @@
 <!-- Add banner here -->
 
 [![Header](https://github.com/caly-pso/formula1_analysis/blob/main/img/header.png)](#TL;DR)
-[![Banner](https://github.com/caly-pso/formula1_analysis/blob/main/img/netflix.jpg)](#TL;DR)
+[![Banner](https://github.com/caly-pso/formula1_analysis/blob/main/img/f1.jpg)](#TL;DR)
 
 # Formula1 Analysis
 
