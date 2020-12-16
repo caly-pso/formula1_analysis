@@ -55,7 +55,7 @@ Data Description -->
 successimportantcriticalinformationalinactive
 bluevioletff69b49cf-->
 
-Vizualizing Formula1 through the unique lense of a Data Analyst.
+Python and Pandas was used in Jupyter Notebooks to explore 13 different CSVs of motorsport data, dating back to 1950. By merging, sorting, filtering, cleaning, and visualizing the data using packages such as Seaborn, I was able to gain insight on individual driver statistics, frequency of track use, and see the progression of the sport.
 
 <br>
 
