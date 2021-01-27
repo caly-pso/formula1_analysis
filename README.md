@@ -38,7 +38,7 @@ Exploration of the Formula1 motorsport to discover trends, longest participating
 
 # Background
 
-<!-- project in breif -->
+<!-- project in brief -->
 <!-- Background
 Problem Statement
 Data Description -->
@@ -79,7 +79,7 @@ Navigate to the folder you wish to use
 cd Users/me/Desktop
 ```
 
-Initalize git
+Initialize git
 
 ```bash
 git init
@@ -128,7 +128,7 @@ Navigate to the ipynb files
 
 [(Back to top)](#table-of-contents)
 
-To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To
+To modify this application, you need to open up the covid_app.py files, and the function and graphing python files. To
 
 <br> -->
 
