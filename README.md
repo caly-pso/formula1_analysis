@@ -1,7 +1,7 @@
 <!-- Add banner here -->
 
-[![Header](https://github.com/caly-pso/formula1_analysis/blob/main/img/header.png)](#TL;DR)
-[![Banner](https://github.com/caly-pso/formula1_analysis/blob/main/img/f1.jpg)](#TL;DR)
+[![Header](/img/header.png)](#TL;DR)
+[![Banner](/img/f1.jpg)](#TL;DR)
 
 # Formula1 Analysis
 
@@ -65,7 +65,7 @@ Python and Pandas was used in Jupyter Notebooks to explore 13 different CSVs of 
 
 <!-- project preview -->
 
-[![Notebook Preview](https://github.com/caly-pso/formula1_analysis/blob/main/img/preview.png)](https://caly-pso.github.io/project_link/5_Random_F1_Facts-Part_1.html)
+[![Notebook Preview](/img/preview.png)](https://caly-pso.github.io/project_link/formula1.html)
 
 <br>
 
@@ -136,7 +136,7 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 ###### [(Back to top)](#table-of-contents)
 
-[MIT Public License](https://github.com/caly-pso/formula1_analysis/blob/main/LICENSE.md)
+[MIT Public License](/main/LICENSE.md)
 
 <br>
 
@@ -146,11 +146,11 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 ###### [(Back to top)](#table-of-contents)
 
-- [COVID-19 App](https://github.com/caly-pso/covid_app)
+- [Disease Dashboard App](https://github.com/caly-pso/disease_dashboard_app)
 - [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
 
 <br>
 
 # Contact Me
 
-[![Footer](https://github.com/caly-pso/covid_app/blob/main/img/footer.png)](#contact-me)
+[![Footer](/img/footer.png)](#contact-me)
