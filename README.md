@@ -65,7 +65,7 @@ Python and Pandas was used in Jupyter Notebooks to explore 13 different CSVs of 
 
 <!-- project preview -->
 
-[![Notebook Preview](/img/preview.png)](https://github.com/caly-pso/caly-pso.github.io/blob/main/project_link/f1.html)
+[![Notebook Preview](/img/preview.png)](https://caly-pso.github.io/project_link/f1.html)
 
 <br>
 
